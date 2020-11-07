@@ -1,0 +1,7 @@
+div h1, div h2 {
+	cursor: pointer;
+}
+
+div h2:hover {
+	color: #1662d9;
+}
